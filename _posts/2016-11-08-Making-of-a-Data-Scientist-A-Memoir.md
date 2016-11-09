@@ -6,8 +6,6 @@ categories: notice
 
 ---
 
-### Making of a Data Scientist: A Memoir
-
 Since the term ‘data science’ has existed only for about five years, there would be almost no one who grew up with the childhood dream of becoming a data scientist. I also started to introduce myself as a data scientist only for a few years, although the possi bility of data has enchanted me since my teen years, and I have continuously tried to collect and make use of data for a long time.
 
 The short lifespan of data science means that there are not many established role models in becoming a data scientist. In a sense, everyone in the field is working while figuring out what it is. However, I believe that hearing of stories from those who started a bit earlier can still inform newcomers of what to do, or what not to do. 
