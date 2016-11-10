@@ -4,7 +4,7 @@ title: About Jin Young Kim
 permalink: /about/
 ---
 
-![Profile Picture](images/profile_small.png)
+![Profile Picture](/images/profile_small.png)
 
 Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. In Microsoft, he has tackled challenging measurement problems in the area of web and conversational search. In his free time, he collects and analyzes various types of data on and around him.
 
