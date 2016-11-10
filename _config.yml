@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jin Young Kim's Homepage
+title: Jinyoung Kim
 email: lifidea@gmail.com
-description: Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. In Microsoft, he has tackled challenging measurement problems in the area of web and conversational search. In his free time, he collects and analyzes various types of data on and around him.
+description: Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lifidea
-github_username:  jykim
+github_username: jykim
 
 # Build settings
 markdown: kramdown
