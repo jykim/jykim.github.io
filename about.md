@@ -13,7 +13,7 @@ He has taught tutorials in evaluation and measurement of online services in both
 
 # Selected Papers
 
-* [Explicit In Situ User Feedback for Web Search Results](http://dl.acm.org/citation.cfm?id=2914754)
+* [Explicit In Situ User Feedback for Web Search Results](http://dl.acm.org/citation.cfm?id=2914754) <br>
 Jin Young Kim, Jaime Teevan and Nick Craswell. 2016. In Proceedings of the 39th Annual International ACM SIGIR (SIGIR).
 
 * Toward Predicting the Outcome of an A/B Experiment for Search Relevance
