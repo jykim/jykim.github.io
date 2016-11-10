@@ -36,4 +36,5 @@ Jin Young Kim and W. Bruce Croft. 2012. In Proceedings of the 34th European Conf
 
 # Selected Talks
 
-* [SIGIR Tutorial on IR Evaluation: Designing an End-to-End Offline Evaluation Pipeline](http://www.slideshare.net/lifidea/sigir-tutorial-on-ir-evaluation-designing-an-endtoend-offline-evaluation-pipeline)
+* [SIGIR Tutorial on IR Evaluation: Designing an End-to-End Offline Evaluation Pipeline](http://www.slideshare.net/lifidea/sigir-tutorial-on-ir-evaluation-designing-an-endtoend-offline-evaluation-pipeline) <br>
+Jin Young Kim and Emine Yilmaz
