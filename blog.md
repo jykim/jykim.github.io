@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Jinyoung Kim's Blog
 permalink: /blog/
 ---
 
