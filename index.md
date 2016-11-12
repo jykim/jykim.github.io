@@ -15,7 +15,7 @@ He has taught tutorials in evaluation and measurement of online services in both
 # Selected Papers
 
 * [Offline Evaluation for Information Retrieval](https://cdn.rawgit.com/jykim/fntir/master/fntir_offline_evaluation.pdf) <br>
-Jin Young Kim, Emine Yilmaz and Paul Thomas. 2016. Foundations and Trends in Information Retrieval (draft in preparation).
+Jin Young Kim, Emine Yilmaz and Paul Thomas. 2016. Foundations and Trends in Information Retrieval (in preparation).
 
 * [Explicit In Situ User Feedback for Web Search Results](http://dl.acm.org/citation.cfm?id=2914754) <br>
 Jin Young Kim, Jaime Teevan and Nick Craswell. 2016. In Proceedings of the 39th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR).
