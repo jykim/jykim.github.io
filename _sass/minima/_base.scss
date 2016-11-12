@@ -76,6 +76,7 @@ li {
   }
 }
 
+li.site-nav+li.site-nav { border-left: 1px solid #000000 }
 
 
 /**
@@ -171,15 +172,6 @@ pre {
     padding-left: $spacing-unit / 2;
   }
 }
-
-.divider{
-    position:absolute;
-    left:50%;
-    top:10%;
-    bottom:10%;
-    border-left:1px solid black;
-}
-
 
 /**
  * Clearfix
