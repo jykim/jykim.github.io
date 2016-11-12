@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-<img src='/images/profile_small.png' style='float:right;' width='25%'>
+<img src='/images/profile_small.png' style='float:right;' width='27%'>
 
 Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. In Microsoft, he has tackled challenging measurement problems in the area of web and conversational search. In his free time, he collects and analyzes various types of data on and around him.
 
