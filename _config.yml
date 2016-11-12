@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jinyoung Kim's Homepage
-author: Jinyoung Kim
 email: me@jinyoung.kim
 description: Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist.
 baseurl: "" # the subpath of your site, e.g. /blog
