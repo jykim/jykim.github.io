@@ -6,7 +6,7 @@ categories: blog
 
 ---
 
-People say that bot is taking over the world. Every major tech company seems to have some form of voice interface, and the variety and capability of such agents (or bots) are growing. While building a bot that can actually help people would be a feat itself, how can we evaluate such systems? How can we generate training data for bot quality, and make decisions on whether the new bot is better or not?
+People say that [bot is the next big thing](https://backchannel.com/the-chat-bot-revolution-is-upon-us-f3fa9e0b380#.pa2kuf2i2), and [replace web and apps eventually](https://chatbotsmagazine.com/how-bots-will-completely-kill-websites-and-mobile-apps-656db8e6fc03#.toup438mt). Every major tech company seems to have some form of voice interface, and the variety and capability of such agents (or bots) are growing. While building a bot that can actually help people would be a feat itself, how can we evaluate such systems? How can we generate training data for bot quality, and make decisions on whether the new bot is better or not?
 
 As someone who worked on [the evaluation of search systems](http://www.slideshare.net/lifidea/sigir-tutorial-on-ir-evaluation-designing-an-endtoend-offline-evaluation-pipeline) for a long time, I decided to explore the possible evaluation / measurement method for bots or agents. I'll focus on information-intensive tasks such as search and recommendation, but the framework itself would be general enough for other task types.
 
