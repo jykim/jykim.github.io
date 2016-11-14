@@ -32,6 +32,10 @@ I started to spend a lot of time attending CS courses although my major was EE. 
 
 For the next 3 years, while working for a software company in Korea as a substitute for military service, I kept on improving the system, dubbed ‘MYLEO(Make Your Life ExtraOrdinary)’. MYLEO started as a simple calendar, but I added a feature where I can rate my schedule on a scale of A to F. The goal was to notice and improve what was unsatisfactory about my daily activities, in the same way I tried to optimize my studying routine during high school years.
 
+![Screenshot of MyLEO](images/myleo.png)
+
 I kept adding various features to the tool, including fancy (at least so I thought) visualization for category-level breakdown of scores. I also added Wiki-like knowledge management system where I tracked what I learned. My colleagues called me crazy, because I was working every night to improve the tool. But they started to suggest various new features, and several of them eventually adopted the system for their personal information.
 
 Having spent 3 years developing MYLEO, I was ready to bet my career on the potential of information technology and data-driven innovation. While I learned a lot while iterating on the software myself, I also realized that I needed to learn a lot more to start a serious career in the field. I started to look for graduate programs in the field of information management and retrieval, and got admission for Computer Science MS/Ph.D program in the University of Massachusetts, Amherst.
+
+%### Learning How Search Works
