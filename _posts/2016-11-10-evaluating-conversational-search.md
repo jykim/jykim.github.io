@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evaluation of Conversational Search Agent"
+title:  "Designing Evaluation for Conversational Search Agent"
 date:   2016-11-08 18:17:43 -0800
 categories: notice
 
@@ -10,9 +10,9 @@ People say that bot is taking over the world. Every major tech company seems to 
 
 As someone who worked on [the evaluation of search systems](http://www.slideshare.net/lifidea/sigir-tutorial-on-ir-evaluation-designing-an-endtoend-offline-evaluation-pipeline) for a long time, I decided to explore the possible evaluation / measurement method for bots or agents. I'll focus on information-intensive tasks such as search and recommendation, but the framework itself would be general enough for other task types.
 
-### Web Search Engine (WSE) vs. Conversational Search Agent (CSA)
+### Web Search Engine vs. Conversational Search Agent
 
-Let's first consider the difference between current web search engine and conversational agent from evaluation standpoint. As you can see from the picture below, users in current WSE type in keyword query followed by simple reformulation of original query. However, in conversational setting, users would likely use natural language query (or questions), followed by another NL questions.
+Let's first consider the difference between current web search engine and conversational agent from evaluation standpoint. As you can see from the picture below, users in current web search engine type in keyword query followed by simple reformulation of original query. However, in conversational setting, users would likely use natural language query (or questions), followed by another NL questions.
 
 ![](/images/search_vs_agent.png)
 
