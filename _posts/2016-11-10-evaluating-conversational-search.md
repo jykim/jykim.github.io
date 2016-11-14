@@ -2,7 +2,7 @@
 layout: post
 title:  "Designing Evaluation for Conversational Search Agent"
 date:   2016-11-08 18:17:43 -0800
-categories: notice
+categories: blog
 
 ---
 

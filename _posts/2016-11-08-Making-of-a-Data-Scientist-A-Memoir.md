@@ -2,7 +2,7 @@
 layout: post
 title:  "Making of a Data Scientist: A Memoir"
 date:   2016-11-08 18:17:43 -0800
-categories: notice
+categories: blog
 
 ---
 
