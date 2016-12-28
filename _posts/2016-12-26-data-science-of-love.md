@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "데이터 과학자의 사랑과 결혼 이야기"
+title:  "데이터 과학자의 사랑 이야기"
 date:   2016-12-26 18:17:43 -0800
 categories: blog
 typora-root-url: /home/jykim/Dropbox/Homepage/jykim.github.io/
