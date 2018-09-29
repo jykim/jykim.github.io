@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jinyoung Kim's Homepage
-email: me@jinyoung.kim
+email: lifidea@gmail.com
 description: Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
