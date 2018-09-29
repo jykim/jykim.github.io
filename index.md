@@ -14,6 +14,9 @@ He has taught tutorials in evaluation and measurement of online services in both
 
 # Selected Papers
 
+* [Understanding and Modeling Success in Email Search](https://rawgit.com/jykim/jykim.github.io/master/files/understanding-modeling-success-email-search.pdf) <br>
+Jin Young Kim, Nick Craswell, Susan Dumais, Filip Radlinski, Fang Liu. 2017. In Proceedings of the 40th Annual International ACM Conference on Research and Development in Information Retrieval (SIGIR).
+
 * [Offline Evaluation for Information Retrieval](https://cdn.rawgit.com/jykim/fntir/master/fntir_offline_evaluation.pdf) <br>
 Jin Young Kim, Emine Yilmaz and Paul Thomas. 2016. Foundations and Trends in Information Retrieval (in preparation).
 

@@ -5,13 +5,16 @@ permalink: /about/
 ---
 <img src='/images/profile_small.png' style='float:right;' width='30%'>
 
-Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. In Microsoft, he has tackled challenging measurement problems in the area of web and conversational search. In his free time, he collects and analyzes various types of data on and around him.
+Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. He is at Snap Inc.'s SF office working on various data science problems in the area of search and recommendation. Previously in Microsoft, he has tackled various problems in the area of web, email and conversational search. In his free time, he collects and analyzes various types of data on and around him.
 
 He has published [more than a dozen papers](https://scholar.google.com/citations?user=SOJ0fy8AAAAJ&hl=en) in the area of information retrieval and data mining, and recently published a book titled [Hello, Data Science](http://www.hellodatascience.com/),  which became a national bestseller (#1 in technology category) in Korea with critical acclaim.
 
 He has taught tutorials in evaluation and measurement of online services in both Microsoft and SIGIR, and consulted various teams in Microsoft on metric and experiment design. He has also served in program committees and organized workshops in SIGIR, WSDM, WWW, ECIR conferences.
 
 # Selected Papers
+
+* [Understanding and Modeling Success in Email Search](http://dl.acm.org/citation.cfm?id=3080837) <br>
+Jin Young Kim, Nick Craswell, Susan Dumais, Filip Radlinski, Fang Liu. 2017. In Proceedings of the 40th Annual International ACM SIGIR (SIGIR).
 
 * [Explicit In Situ User Feedback for Web Search Results](http://dl.acm.org/citation.cfm?id=2914754) <br>
 Jin Young Kim, Jaime Teevan and Nick Craswell. 2016. In Proceedings of the 39th Annual International ACM SIGIR (SIGIR).
