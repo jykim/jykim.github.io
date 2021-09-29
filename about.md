@@ -5,9 +5,11 @@ permalink: /about/
 ---
 <img src='/images/profile_small.png' style='float:right;' width='30%'>
 
-Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. He is at Snap Inc.'s SF office working on various data science problems in the area of search and recommendation. Previously in Microsoft, he has tackled various problems in the area of web, email and conversational search. In his free time, he collects and analyzes various types of data on and around him.
+Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. He is currently a Director of Naver Search US and the Head of Data & Analytics (DnA) organization at Naver Search, building state-of-the-art analytics and experimentation platforms and practices with talented data engineers and scientists. More about his team can be found at [DnA tech blog](https://medium.com/naver-dna-tech-blog) and [hiring website](https://naver-career.gitbook.io/en/).
 
-He has published [more than a dozen papers](https://scholar.google.com/citations?user=SOJ0fy8AAAAJ&hl=en) in the area of information retrieval and data mining, and recently published a book titled [Hello, Data Science](http://www.hellodatascience.com/),  which became a national bestseller (#1 in technology category) in Korea with critical acclaim.
+Previously at Snap Inc., he has led various projects on online (A/B) and offline (label-based) metric development, causal inference in the space of social media search and recommendation. In Microsoft, he has tackled challenging modeling and measurement problems in the area of web (Bing), email (Outlook), conversational (Cortana) search.
+
+He has published [more than a dozen papers](https://scholar.google.com/citations?user=SOJ0fy8AAAAJ&hl=en) in the area of information retrieval and data mining, and recently published a book titled [Hello, Data Science](http://www.hellodatascience.com/),  which became a national bestseller (#1 in technology category) in Korea with critical acclaim. He also regularly hosts [the Data Intelligence podcast](http://data-intelligence.io/).
 
 He has taught tutorials in evaluation and measurement of online services in both Microsoft and SIGIR, and consulted various teams in Microsoft on metric and experiment design. He has also served in program committees and organized workshops in SIGIR, WSDM, WWW, ECIR conferences.
 
