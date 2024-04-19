@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <img src='/images/profile_small.png' style='float:right;' width='30%'>
 
-Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. He is currently a Director of Naver Search US and the Head of Data & Analytics (DnA) organization at Naver Search, building state-of-the-art analytics and experimentation platforms and practices with talented data engineers and scientists. More about his team can be found at [DnA tech blog](https://medium.com/naver-dna-tech-blog) and [hiring website](https://naver-career.gitbook.io/en/).
+Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. He is currently a Director of Naver Search US and the Head of Data & Analytics (DnA) organization at Naver Search and Cue: ([LLM-based search engine](https://cue.search.naver.com/)) from Naver, building state-of-the-art analytics and experimentation platforms and practices with talented data engineers and scientists. More about his work at Naver can be found at [DnA tech blog](https://medium.com/naver-dna-tech-blog). 
 
 Previously at Snap Inc., he has led various projects on online (A/B) and offline (label-based) metric development, causal inference in the space of social media search and recommendation. In Microsoft, he has tackled challenging modeling and measurement problems in the area of web (Bing), email (Outlook), conversational (Cortana) search.
 
@@ -14,6 +14,13 @@ He has published [more than a dozen papers](https://scholar.google.com/citations
 He has taught tutorials in evaluation and measurement of online services in both Microsoft and SIGIR, and consulted various teams in Microsoft on metric and experiment design. He has also served in program committees and organized workshops in SIGIR, WSDM, WWW, ECIR conferences.
 
 # Selected Papers
+
+* [Practice and Challenges in Building a Business-oriented Search Engine Quality Metric](https://dl.acm.org/doi/abs/10.1145/3539618.3591841)
+<br>
+Nuo Chen, Donghyun Park, Hyungae Park, Kijun Choi, Tetsuya Sakai. 2023. In Proceedings of the 46th Annual International ACM SIGIR (SIGIR).
+
+* [A Versatile Framework for Evaluating Ranked Lists in Terms of Group Fairness and Relevance](https://dl.acm.org/doi/full/10.1145/3589763)
+<br>Tetsuya Sakai, Jin Young Kim, Inho Kang. 2023. ACM Transactions on Information Systems (Volume 42, Issue 1).
 
 * [Understanding and Modeling Success in Email Search](http://dl.acm.org/citation.cfm?id=3080837) <br>
 Jin Young Kim, Nick Craswell, Susan Dumais, Filip Radlinski, Fang Liu. 2017. In Proceedings of the 40th Annual International ACM SIGIR (SIGIR).
