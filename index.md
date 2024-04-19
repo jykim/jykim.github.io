@@ -6,7 +6,7 @@ layout: home
 ---
 <img src='/images/profile_small.png' style='float:right;' width='27%'>
 
-Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. In Microsoft, he has tackled challenging measurement problems in the area of web and conversational search. In his free time, he collects and analyzes various types of data on and around him.
+Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. He is currently a Director of Naver Search US and the Head of Data & Analytics (DnA) organization at Naver Search, building state-of-the-art analytics and experimentation platforms and practices with talented data engineers and scientists. More about his team can be found at [DnA tech blog](https://medium.com/naver-dna-tech-blog) and [hiring website](https://naver-career.gitbook.io/en/).
 
 He has published [more than a dozen papers](https://scholar.google.com/citations?user=SOJ0fy8AAAAJ&hl=en) in the area of information retrieval and data mining, and recently published a book titled [Hello, Data Science](http://www.hellodatascience.com/),  which became a national bestseller (#1 in technology category) in Korea with critical acclaim.
 
