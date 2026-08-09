@@ -20,6 +20,10 @@ He has taught tutorials in evaluation and measurement of online services in both
 <br>
 Jinyoung Kim, Sun Kim, Inho Kang. 2026. Presented in the KDD Workshop on Evaluation and Trustworthiness of Agentic AI at KDD'26.
 
+* [BloomIntent: Automating Search Evaluation with LLM-Generated Fine-Grained User Intents](https://doi.org/10.1145/3746059.3747677)
+<br>
+Yoonseo Choi, Eunhye Kim, Hyunwoo Kim, Donghyun Park, Honggu Lee, Jin Young Kim, Juho Kim. 2025. In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST).
+
 * [Using LLMs to Investigate Correlations of Conversational Follow-up Queries with User Satisfaction](https://arxiv.org/abs/2407.13166)
 <br>
 Hyunwoo Kim, Yoonseo Choi, Taehyun Yang, Honggu Lee, Chaneon Park, Yongju Lee, Jin Young Kim, Juho Kim. 2024. Presented in LLM4Eval Workshop in SIGIR'24.

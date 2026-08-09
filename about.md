@@ -15,6 +15,10 @@ He has taught tutorials in evaluation and measurement of online services in both
 
 # Selected Papers
 
+* [BloomIntent: Automating Search Evaluation with LLM-Generated Fine-Grained User Intents](https://doi.org/10.1145/3746059.3747677)
+<br>
+Yoonseo Choi, Eunhye Kim, Hyunwoo Kim, Donghyun Park, Honggu Lee, Jin Young Kim, Juho Kim. 2025. In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST).
+
 * [Practice and Challenges in Building a Business-oriented Search Engine Quality Metric](https://dl.acm.org/doi/abs/10.1145/3539618.3591841)
 <br>
 Nuo Chen, Donghyun Park, Hyungae Park, Kijun Choi, Tetsuya Sakai. 2023. In Proceedings of the 46th Annual International ACM SIGIR (SIGIR).
