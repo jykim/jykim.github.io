@@ -16,6 +16,10 @@ He has taught tutorials in evaluation and measurement of online services in both
 
 # Selected Papers
 
+* [Clustering-based Prompt Optimization for LLM Evaluation](https://kdd-eval-workshop.github.io/agenticai-evaluation-kdd2026/assets/papers/71_Clustering_based_Prompt_Opt.pdf)
+<br>
+Jinyoung Kim, Sun Kim, Inho Kang. 2026. Presented in the KDD Workshop on Evaluation and Trustworthiness of Agentic AI at KDD'26.
+
 * [Using LLMs to Investigate Correlations of Conversational Follow-up Queries with User Satisfaction](https://arxiv.org/abs/2407.13166)
 <br>
 Hyunwoo Kim, Yoonseo Choi, Taehyun Yang, Honggu Lee, Chaneon Park, Yongju Lee, Jin Young Kim, Juho Kim. 2024. Presented in LLM4Eval Workshop in SIGIR'24.
