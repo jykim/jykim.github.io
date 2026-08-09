@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <img src='/images/profile_small.png' style='float:right;' width='30%'>
 
-Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. He is currently a Director of Naver Search US and the Head of Data & Analytics (DnA) organization at Naver Search and Cue: ([LLM-based search engine](https://cue.search.naver.com/)) from Naver, building state-of-the-art analytics and experimentation platforms and practices with talented data engineers and scientists. More about his work at Naver can be found at [DnA tech blog](https://medium.com/naver-dna-tech-blog). 
+Jinyoung (Jin) Kim is a data scientist, data enthusiast and data evangelist. He is currently a Director of Naver Search US and the Head of Data & Analytics (DnA) organization at Naver Search and Naver AI Tab, building state-of-the-art analytics and experimentation platforms and practices with talented data engineers and scientists. His recent work and interests focus on agentic search evaluation based on user simulation.
 
 Previously at Snap Inc., he has led various projects on online (A/B) and offline (label-based) metric development, causal inference in the space of social media search and recommendation. In Microsoft, he has tackled challenging modeling and measurement problems in the area of web (Bing), email (Outlook), conversational (Cortana) search.
 
